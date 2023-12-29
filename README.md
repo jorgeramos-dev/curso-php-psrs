@@ -9,4 +9,4 @@
  - PHP PSR-3
  - PHP PSR-4
 
-☑️ Curso feito com o objetivo de se aprofundar nas PSRs, procurando entender sobre cada PSR e seguindo as melhores práticas para desenvolvimento de projetos.
+☑️ Curso feito com o objetivo de se aprofundar nas PSRs 1,2,3 e 4, procurando entender sobre cada PSR e seguindo as melhores práticas para desenvolvimento de projetos.
